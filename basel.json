@@ -1,0 +1,10 @@
+{
+    "name": "gold-app",
+    "database": "qlchvangbac",
+    "title": "Gold App",
+    "type": "simple",
+    "cipher": true,
+    "passowrd": "admin",
+    "algorithm": "aes-256-ctr",
+    "password": "admin"
+}
